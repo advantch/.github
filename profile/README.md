@@ -1,6 +1,6 @@
 # Advantch.com 
 
-![Alt text](https://cdn.avantch.com/static/images/logo.png)
+![Alt text](https://cdn.advantch.com/static/images/logo.png)
 
 ## The Django SaaS StarterKit
 
